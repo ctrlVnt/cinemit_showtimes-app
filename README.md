@@ -7,16 +7,7 @@ Following [my failed project](https://www.cinemit.app) of group meetings at the 
 
 All contributions are welcome.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" alt="Screenshot_20260305-232243" src="https://github.com/user-attachments/assets/a435fe95-6ebb-4ed2-894e-b348c0e45af9" />
+<img width="300" alt="Screenshot_20260305-232247" src="https://github.com/user-attachments/assets/2be17f28-1433-45f2-bdee-ceed25cdaf26" />
