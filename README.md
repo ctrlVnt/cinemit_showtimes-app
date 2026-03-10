@@ -9,5 +9,6 @@ All contributions are welcome.
 
 ## Screenshots
 
-<img width="300" alt="Screenshot_20260305-232243" src="https://github.com/user-attachments/assets/a435fe95-6ebb-4ed2-894e-b348c0e45af9" />
-<img width="300" alt="Screenshot_20260305-232247" src="https://github.com/user-attachments/assets/2be17f28-1433-45f2-bdee-ceed25cdaf26" />
+<img width="250" alt="1" src="https://github.com/user-attachments/assets/6c53aad1-abc0-4574-8542-ac16280f62f4" />
+<img width="250" alt="2" src="https://github.com/user-attachments/assets/9647f076-b506-402a-be6e-b959d58de4e9" />
+<img width="250" alt="3" src="https://github.com/user-attachments/assets/3da1f01c-0f6f-43b1-b8cb-39933028f1fb" />
